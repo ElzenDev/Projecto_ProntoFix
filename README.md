@@ -276,7 +276,7 @@ O modelo ER, o dicionário de dados e os ficheiros `create.sql`, `populate.sql` 
 ## 📁 Estrutura do repositório
 
 ```
-Fix-ja/
+ProntoFix/
 ├── README.md
 ├── Documentos/                    # Propostas e relatórios
 │   ├── g04-proposta-v1.pdf

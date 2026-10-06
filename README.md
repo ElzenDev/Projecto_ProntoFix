@@ -24,14 +24,15 @@ Projeto Multidisciplinar · **Grupo 04**
 
 | Documento | Estado | Ligação |
 |---|---|---|
-| Proposta inicial (v1) | ✅ Entregue (02.10.2026) | [PDF](Documentos/g04-proposta-v1.pdf) · [Markdown](Documentos/g04-proposta-v1.md) |
+| Proposta inicial (v1) | ✅ Entregue (02.10.2026) | [PDF](Documentos/g04-proposta-v1.pdf)|
 | Proposta v2 (se houver alterações significativas) | ⏳ Por entregar | n/a |
 | Relatório intermédio | ⏳ Por entregar (06.11.2026) | n/a |
 | Relatório final | ⏳ Por entregar (11.12.2026) | n/a |
 | Memória e arquivo documental | 🚧 Em construção | [`Projeto_ProntoFix/`](Projeto_ProntoFix/) |
 | Documentação REST | ⏳ Por entregar | n/a |
 | Manual do utilizador | ⏳ Por entregar | n/a |
-| Mockups (Figma) | 🚧 Em construção | *(link a adicionar)* |
+| Mockups (Figma) | ✅ Entregue |[Figma Link](https://www.figma.com/proto/HrEaTVDkBjhdbS3D8eG3up/ProntoFix?nodeid=10-560&p=f&t=lUZXrJ15twiKHX0b-0&scaling=min-zoom&content-scaling=fixed&pageid=7%3A2) |
+
 
 ## 📑 Índice
 
@@ -280,8 +281,6 @@ ProntoFix/
 ├── README.md
 ├── Documentos/                    # Propostas e relatórios
 │   ├── g04-proposta-v1.pdf
-│   ├── g04-proposta-v1.md
-│   └── img/
 ├── Projeto_ProntoFix/             # Memória e arquivo documental (estrutura obrigatória)
 │   ├── 00_Identificacao/info.md
 │   ├── 01_Memoria_Descritiva/memoria.md
@@ -373,7 +372,7 @@ ProntoFix/
 - [x] Modelo do domínio
 - [x] Project Charter, WBS e planeamento (Gantt)
 - [x] Proposta inicial (v1)
-- [ ] Mockups completos no Figma
+- [x] Mockups completos no Figma
 - [ ] Modelo ER e base de dados
 - [ ] API REST
 - [ ] App Flutter (cliente e prestador)

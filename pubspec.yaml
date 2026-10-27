@@ -1,0 +1,38 @@
+name: prontofix
+description: ProntoFix - reparações urgentes ao domicílio (Projeto Multidisciplinar, Grupo 04).
+publish_to: 'none'
+version: 0.2.0+2
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Ligação à API REST do servidor (Node.js)
+  http: ^1.2.2
+
+  # Mapa (OpenStreetMap), GPS e morada
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+  geolocator: ^13.0.1
+  geocoding: ^3.0.0
+
+  # Fotografia da avaria
+  image_picker: ^1.1.2
+
+  # QR Code de chegada (mostrar e ler)
+  qr_flutter: ^4.1.0
+  mobile_scanner: ^6.0.2
+
+  # Ligar / enviar mensagem / abrir rota
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
